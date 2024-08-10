@@ -1,0 +1,24 @@
+body{
+    background-image:url('mental5.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #con{
+    font-size: 45px;
+    color: white;
+  }
+  li{
+    color: white;
+    margin-top: 12px;
+    margin-left: 45px;
+    font-size: 1.4rem;
+  }
+  .thought{
+    color: white;
+    margin-top: 80px;
+ }
+
+  .thought h1{
+    color: yellow;
+ }
+  

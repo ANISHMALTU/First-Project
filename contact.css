@@ -1,0 +1,35 @@
+
+body{
+    background-image: url('./mental3.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: red;
+}
+p{
+    font-size: 1.3rem;
+}
+button{
+    background-color: rgb(237, 226, 226);
+    border: 2px rgb(61, 58, 58);
+    border-radius: 12px;
+    background-color: red;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin-left: 80%;
+    color: yellow;
+}
+/* address */
+.add p{
+    font-size: 1.3rem;
+}
+h2{
+    font-size: 1.7rem; 
+}
+.problem{
+    font-size: 1.3rem;
+}

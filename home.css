@@ -1,0 +1,83 @@
+a{
+            color: white;
+            font-size:1.5rem;
+            border: 4px;
+            text-decoration: none;
+            
+        }
+        b{
+            color: yellow;
+        }
+        h3{
+            color: white;
+        }
+        li{
+            font-size:  23px;
+        }
+        .link{
+            position: relative;
+            display: inline-block;
+        }
+        .link-hower{
+            display: none;
+            position: absolute;
+            background-color: red;
+            min-width: 80px;
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            padding: 1px 1px;
+            min-height: 10px;
+            opacity: .7;
+        }
+        .link:hover .link-hower{display: block;}
+
+           p {
+           color:red ;
+           font-size:  49px;
+           text-align: center;
+           background-image: url(/mental.jpeg);
+           background-size: cover;
+           font-style: bold;
+           height: 59px;
+           margin-top: -8px;
+           margin-bottom: -10px;
+           margin-left: -7px;
+           margin-right: -7px;
+           }
+           body {
+            background-size: cover;
+             background-image: url('mental5.jpeg');
+            background-repeat: no-repeat;
+           }
+           h2 {
+            font-size: large;
+            color: red;
+            margin-right: 102px; 
+           }
+           i{
+            color: white;
+             }
+           u{
+            font-size: 27px;
+            color: red;
+            margin-left: 21px;
+           }
+          ul{
+            color: yellow;
+            font-size: large;
+           }
+           ol{
+            margin-right: 102px;
+           }
+           .footer{
+            background-image: url(/mental.jpeg);
+           background-size: cover;
+           font-style: bold;
+           height: 30px;
+           margin-top: 1px;
+           margin-bottom: -10px;
+           margin-left: -7px;
+           }
+           hr{
+            margin-left: -7px;
+            margin-right: -7px;
+           }
